@@ -3,3 +3,4 @@
 name = "AI Student"
 print("Hello,", name)
 print("Welcome to AI and Machine Learning!")
+print("GitHub update received!")
